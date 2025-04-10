@@ -40,7 +40,7 @@ public:
 };
 
 int main() {
-    Student s("Riya", 1001, 3.4);
+    Student s("Madhavan", 1001, 3.4);
     s.addCourse("Math");
     s.addCourse("Physics");
     s.updateCGPA(3.6);
